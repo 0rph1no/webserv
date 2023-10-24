@@ -1,7 +1,7 @@
 # WebServ
 ### Nginx says hi, :blush:
 ---
-#### Project OverView: {#overview}
+#### Project OverView:
 As the title suggest, this is a simple project where we have to simulate the **client/server** model through **http** protocol using *socket programming*.
 Our task is simply to create a **web server** that is responsable to adhere to config file rules, parse client request and send a convenient response.
 <br />
@@ -33,7 +33,7 @@ I took the **Post method** with all its functionalities (Content-Type, Transfer-
 
 | Skills | Description |
 | ----------- | ----------- |
-| Socket Programming | [Click here](#overview) |
+| Socket Programming | [Click here](#project-overview) |
 | Convenient Http Responding | Reply with the right response status code  |
 | Cgi Implementation | Execute the file requested and return its output as response to the client  |
 
